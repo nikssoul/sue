@@ -1,0 +1,10 @@
+D:\ИС1-21\Переганец\C#\8.2\8.2\bin\Debug\8.2.exe.config
+D:\ИС1-21\Переганец\C#\8.2\8.2\bin\Debug\8.2.exe
+D:\ИС1-21\Переганец\C#\8.2\8.2\bin\Debug\8.2.pdb
+D:\ИС1-21\Переганец\C#\8.2\8.2\obj\Debug\8.2.csprojAssemblyReference.cache
+D:\ИС1-21\Переганец\C#\8.2\8.2\obj\Debug\_8._2.Form1.resources
+D:\ИС1-21\Переганец\C#\8.2\8.2\obj\Debug\_8._2.Properties.Resources.resources
+D:\ИС1-21\Переганец\C#\8.2\8.2\obj\Debug\8.2.csproj.GenerateResource.cache
+D:\ИС1-21\Переганец\C#\8.2\8.2\obj\Debug\8.2.csproj.CoreCompileInputs.cache
+D:\ИС1-21\Переганец\C#\8.2\8.2\obj\Debug\8.2.exe
+D:\ИС1-21\Переганец\C#\8.2\8.2\obj\Debug\8.2.pdb

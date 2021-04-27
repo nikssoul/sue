@@ -1,0 +1,10 @@
+D:\ИС1-21\Переганец\C#\81\81\obj\Debug\81.csprojAssemblyReference.cache
+D:\ИС1-21\Переганец\C#\81\81\obj\Debug\_81.Form1.resources
+D:\ИС1-21\Переганец\C#\81\81\obj\Debug\_81.Properties.Resources.resources
+D:\ИС1-21\Переганец\C#\81\81\obj\Debug\81.csproj.GenerateResource.cache
+D:\ИС1-21\Переганец\C#\81\81\obj\Debug\81.csproj.CoreCompileInputs.cache
+D:\ИС1-21\Переганец\C#\81\81\bin\Debug\81.exe.config
+D:\ИС1-21\Переганец\C#\81\81\bin\Debug\81.exe
+D:\ИС1-21\Переганец\C#\81\81\bin\Debug\81.pdb
+D:\ИС1-21\Переганец\C#\81\81\obj\Debug\81.exe
+D:\ИС1-21\Переганец\C#\81\81\obj\Debug\81.pdb
